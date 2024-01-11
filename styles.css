@@ -1,0 +1,45 @@
+
+
+.one {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  background-color: red;
+}
+
+.oneA {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  background-color: purple;
+
+}
+
+.two {
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  background-color: blue;
+}
+
+.twoA {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  background-color: aqua;
+
+}
+.twoB {
+  height: 50px;
+  width: 50px;
+  margin: 10px 100px 10px 10px;
+  background-color: slategrey;
+
+}
+
+.three {
+  height: 100px;
+  width: 100px;
+  margin: 30px;
+  background-color: green;
+}
